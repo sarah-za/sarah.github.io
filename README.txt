@@ -1,5 +1,6 @@
 
 *IN PROGRESS*
+Visit website here: https://sarah-za.github.io/sarah.github.io/
 
 Stellar by HTML5 UP
 html5up.net | @ajlkn
